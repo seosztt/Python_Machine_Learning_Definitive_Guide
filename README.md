@@ -15,3 +15,8 @@
 - chapter7.4: GMM(Gaussian Mixture Model)
 - chapter7.5: DBSCAN
 - chapter7.6: 군집화 실습 - 고객 세그먼테이션
+
+### 8장: 텍스트 분석
+
+- chapter8.2: 텍스트 사전 준비 작업(텍스트 전처리) - 텍스트 정규화
+- chapter8.3: Bag of Words - BOW
