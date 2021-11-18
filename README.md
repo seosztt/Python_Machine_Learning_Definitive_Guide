@@ -20,3 +20,8 @@
 
 - chapter8.2: 텍스트 사전 준비 작업(텍스트 전처리) - 텍스트 정규화
 - chapter8.3: Bag of Words - BOW
+- chapter8.4: 텍스트 분류 실습 - 20 뉴스그룹 분류
+- chapter8.5: 감성분석
+- chapter8.6: 토픽 모델링(Topic Modeling) - 20 뉴스그룹
+- chapter8.7: 문서 군집화 소개와 실습(Opinion Review 데이터 세트)
+- chapter8.8: 문서 유사도
