@@ -25,3 +25,4 @@
 - chapter8.6: 토픽 모델링(Topic Modeling) - 20 뉴스그룹
 - chapter8.7: 문서 군집화 소개와 실습(Opinion Review 데이터 세트)
 - chapter8.8: 문서 유사도
+- chapter8.9: 한글 텍스트 처리 - 네이버 영화 평점 감성 분석
