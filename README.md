@@ -26,3 +26,8 @@
 - chapter8.7: 문서 군집화 소개와 실습(Opinion Review 데이터 세트)
 - chapter8.8: 문서 유사도
 - chapter8.9: 한글 텍스트 처리 - 네이버 영화 평점 감성 분석
+- chapter8.10: 텍스트 분석 실습 - 캐글 Mercari price Suggestion Challenge
+
+### 9장: 추천 시스템
+
+- chapter9.4: 잠재 요인 협업 필터링
